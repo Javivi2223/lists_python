@@ -1,4 +1,4 @@
-dogs = []
+dog = []
 menu_option = ""
 
 while menu_option != "3" :
@@ -15,7 +15,7 @@ while menu_option != "3" :
         dog.append(name)
         dog.append(age)
         dog.append(breed)
-        dogs.append(dog)
+        dog.append(dog)
         print("cachorrito registrado con éxito")
         print("--------------------")
 

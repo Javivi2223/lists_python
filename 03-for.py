@@ -6,6 +6,8 @@ for student in students:
 fruits = ["apple", "Banana", "pineapple", "watermelon"]
 
 for fruit in fruits:
+    if fruit == "banana" :
+        break
     print(fruit)
 
     
